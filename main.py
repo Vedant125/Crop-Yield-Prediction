@@ -13,7 +13,7 @@ with open('pipe.pkl', 'rb') as f:
 
 st.header('Agriculture Yield Prediction Model')
 
-df = pd.read_csv('C:\Agri_Yield_Streamlit\datafile (1).csv')
+df = pd.read_csv('datafile (1).csv')
 
 
 
